@@ -16,6 +16,17 @@
 
 # :computer: Site Portfólio José A. Thomé - Acesse: https://josethome.github.io/josethome-portfolio/
 
+## Ferramentas e dependências.
+
+- Ferramentas:
+* Visual Studio Code
+* Git Bash
+* Google Chome Developer
+
+- Dependências:
+* Bowwer
+* Gulp
+
 ---
 
 # :inbox_tray: Como baixar o projeto
