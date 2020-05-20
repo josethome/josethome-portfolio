@@ -18,13 +18,13 @@
 
 ## Ferramentas e dependências.
 
-- Ferramentas:
+### Ferramentas:
 * Visual Studio Code
 * Git Bash
-* Google Chome Developer
+* Google Chrome Developer
 
-- Dependências:
-* Bowwer
+### Dependências:
+* Bower
 * Gulp
 
 ---
