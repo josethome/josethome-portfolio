@@ -22,5 +22,7 @@
     "gulp-sass": "^4.1.0",
     "gulp-watch": "^5.0.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "save-dev": "0.0.1-security"
+  }
 }
